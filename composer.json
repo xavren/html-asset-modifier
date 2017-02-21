@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-0": {
+            "": "./src"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.2",
+        "symfony/css-selector": "^3.2",
+        "symfony/http-foundation": "^3.2"
+    }
+}
